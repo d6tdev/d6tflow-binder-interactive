@@ -1,3 +1,5 @@
 d6tflow
 scikit-learn
 pandas
+numpy
+pandas_datareader
